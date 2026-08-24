@@ -109,13 +109,7 @@ I'm currently exploring ideas at the intersection of **AI, fintech and fraud det
 
 ---
 
-## 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar120773\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar120773\&layout=compact\&hide_border=true\&theme=transparent)
-
----
 
 ## 🤝 Connect With Me
 
