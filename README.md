@@ -2,7 +2,7 @@
 
 ### Software Engineer • Builder • Problem Solver
 
-I'm a third-year Computer Science student interested in **distributed systems, AI/ML, backend engineering and developer infrastructure**.
+I'm a fourth-year Computer Science student interested in **distributed systems, AI/ML, backend engineering and developer infrastructure**.
 
 I enjoy building systems that go beyond simple CRUD applications — from distributed job schedulers and operating-system utilities to MLOps pipelines and data platforms.
 
