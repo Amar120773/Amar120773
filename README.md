@@ -117,4 +117,4 @@ I'm currently exploring ideas at the intersection of **AI, fintech and fraud det
 
 ---
 
-> *Build things that are difficult enough to teach you something.*
+> *Build things that are difficult enough to teach you something.
