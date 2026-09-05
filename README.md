@@ -1,120 +1,35 @@
-# 👋 Hi, I'm Amar
+<h1 align="center">Hi 👋, I'm Amar</h1>
+<h3 align="center">Learning always, one step at a time.</h3>
 
-### Software Engineer • Builder • Problem Solver
+- 🔭 I’m currently working on **Machine Learning, Distributed Systems, and Web Development**
 
-I'm a fourth-year Computer Science student interested in **distributed systems, AI/ML, backend engineering and developer infrastructure**.
+- 📝 I regularly write articles on [my blog/portfolio](https://amar-opal.vercel.app/)
 
-I enjoy building systems that go beyond simple CRUD applications — from distributed job schedulers and operating-system utilities to MLOps pipelines and data platforms.
+- 💬 Ask me about **Python, Go, Java, and JavaScript**
 
----
+- 📫 How to reach me **[https://amar-opal.vercel.app/](https://amar-opal.vercel.app/)**
 
-## 🚀 Featured Projects
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🌀 [ClusterFlow — Distributed Compute Job Scheduler](https://github.com/Amar120773/ClusterFlow-Distributed-Compute-Job-Scheduler)
+### 🚀 Highlighted Projects
 
-A distributed compute job scheduling platform built with **Go, React, MongoDB and Docker**.
+*   [**PayNexus**](https://github.com/Amar120773/PayNexus) - Advanced merchant risk engine using Neo4j graph traversals and SHAP-explained XGBoost models to uncover coordinated fraud networks.
+*   [**ClusterFlow-Distributed-Compute-Job-Scheduler**](https://github.com/Amar120773/ClusterFlow-Distributed-Compute-Job-Scheduler) - A distributed compute job scheduler featuring a Go master backend, active agent execution nodes, and a React dashboard.
+*   [**churn-mlops**](https://github.com/Amar120773/churn-mlops) - A complete MLOps and DevOps pipeline for Customer Churn Prediction using Machine Learning.
+*   [**Deep-Learning-TTS-Project**](https://github.com/Amar120773/Deep-Learning-TTS-Project) - An end-to-end Text-to-Speech system using deep learning models to generate natural speech from text with an interactive web interface.
+*   [**cross-platform-sorting-analysis**](https://github.com/Amar120773/cross-platform-sorting-analysis) - A cross-platform Java benchmarking framework to compare sorting algorithms on Windows, Linux, and macOS.
+*   [**E-Commerce-Sales-Dashboard**](https://github.com/Amar120773/E-Commerce-Sales-Dashboard) - An interactive E-Commerce Sales Dashboard built to analyze high-level KPIs, regional performance, profitability, and customer purchasing trends.
 
-* DAG-based job pipelines
-* Priority & FIFO scheduling
-* FirstFit & LeastLoaded worker placement
-* Real-time WebSocket monitoring
-* Worker-agent architecture
-* JWT authentication & RBAC
-* Prometheus metrics
-* Docker Compose orchestration
-* CI/CD with GitHub Actions
+### 📊 GitHub Stats
 
-**Tech:** Go · React · TypeScript · MongoDB · WebSockets · Docker · Prometheus
-
----
-
-### 🐧 [Linux Log Analyzer](https://github.com/Amar120773/linux-log-analyzer)
-
-A Python and Bash-based system for processing Linux logs, converting unstructured logs into structured events and detecting anomalies.
-
-**Tech:** Python · Bash · Linux · Log Analysis
-
----
-
-### ⚡ [kvstore](https://github.com/Amar120773/kvstore)
-
-An in-memory key-value store implemented in Go with **LRU eviction and TTL support**.
-
-**Tech:** Go · Data Structures · Concurrency · Systems Programming
-
----
-
-### 🤖 [Churn MLOps](https://github.com/Amar120773/churn-mlops)
-
-An end-to-end machine-learning and MLOps pipeline for customer churn prediction with experiment tracking, model comparison and model management.
-
-**Tech:** Python · Machine Learning · MLflow · MLOps
-
----
-
-### 📊 [E-Commerce Sales Dashboard](https://github.com/Amar120773/E-Commerce-Sales-Dashboard)
-
-An interactive analytics dashboard for exploring sales KPIs, regional performance, profitability and customer purchasing trends.
-
-**Tech:** Data Analytics · Visualization · Python
-
----
-
-### 🐚 [mini-bash](https://github.com/Amar120773/mini-bash)
-
-A Unix-like shell implemented in **C using POSIX system calls**.
-
-**Tech:** C · Linux · POSIX · Operating Systems
-
----
-
-## 🛠️ Technologies
-
-**Languages**
-
-`Go` `Python` `Java` `C` `JavaScript` `SQL`
-
-**Backend & Systems**
-
-`Go` `FastAPI` `REST APIs` `WebSockets` `Linux` `POSIX`
-
-**Frontend**
-
-`React` `TypeScript` `HTML` `CSS`
-
-**Data & ML**
-
-`MongoDB` `PostgreSQL` `Pandas` `NumPy` `Scikit-learn` `MLflow`
-
-**Infrastructure**
-
-`Docker` `Docker Compose` `GitHub Actions` `Prometheus` `Git`
-
----
-
-## 📚 Currently Exploring
-
-* Distributed Systems
-* Machine Learning & MLOps
-* System Design
-* Cloud & Infrastructure
-* High Performance Computing
-* AI-powered developer tools
-
----
-
-## 🎯 What I'm Building Next
-
-I'm currently exploring ideas at the intersection of **AI, fintech and fraud detection**, including systems that can continuously discover blind spots in fraud models.
-
----
-
-
-
-## 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/amarnath-gowda) · [Portfolio]() · [Email](mailto:gkmamarnath@gmail.com)
-
----
-
-> *Build things that are difficult enough to teach you something.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar120773&show_icons=true&theme=radical" alt="Amar's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar120773&theme=radical" alt="Amar's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar120773&layout=compact&theme=radical" alt="Top Languages" />
+</p>
