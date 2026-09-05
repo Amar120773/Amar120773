@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">Learning always, one step at a time.</h3>
+<h1 align="left">Hi 👋, I'm Amar</h1>
+<h3 align="left">Learning always, one step at a time.</h3>
 
 - 🔭 I’m currently working on **Machine Learning, Distributed Systems, and Web Development**
 
@@ -24,10 +24,4 @@
 *   [**cross-platform-sorting-analysis**](https://github.com/Amar120773/cross-platform-sorting-analysis) - A cross-platform Java benchmarking framework to compare sorting algorithms on Windows, Linux, and macOS.
 *   [**E-Commerce-Sales-Dashboard**](https://github.com/Amar120773/E-Commerce-Sales-Dashboard) - An interactive E-Commerce Sales Dashboard built to analyze high-level KPIs, regional performance, profitability, and customer purchasing trends.
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar120773&show_icons=true&theme=radical" alt="Amar's GitHub stats" />
-</p>
-<p align="center">
-</p>
