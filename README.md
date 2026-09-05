@@ -12,12 +12,6 @@
 
 <br>
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryoluo/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amar120773&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" alt="Amar120773 Trophies" />
-  </a>
-</p>
 
 ### 🔥 Featured Projects
 
@@ -57,10 +51,7 @@ An end-to-end Text-to-Speech system using deep learning models to generate natur
 
 ### 📊 GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar120773&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Amar's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar120773&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192px"/>
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar120773&theme=radical&hide_border=true&background=0D1117" alt="Amar's GitHub Streak" />
