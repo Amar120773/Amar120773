@@ -28,8 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amar120773&show_icons=true&theme=radical" alt="Amar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar120773&theme=radical" alt="Amar's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar120773&layout=compact&theme=radical" alt="Top Languages" />
 </p>
