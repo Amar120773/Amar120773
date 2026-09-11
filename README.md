@@ -1,5 +1,5 @@
 # Hey, I'm Amar
-🚀 Machine Learning Engineer × Distributed Systems Developer × Web Developer
+🚀 Machine Learning Engineer × Distributed Systems Developer
 
 ### 🖥️ Status Check
 - 📍 **Location:** Bengaluru, India
